@@ -20,3 +20,5 @@
 |leaflet         | mappe interattive in HTML |
 
 ## link: https://r-spatial.org/
+
+## ko
