@@ -1,0 +1,20 @@
+# R / RStudio
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Pacchetti installati localmente dallo script
+.r_libs/
+
+# Output generati dallo script
+output/
+
+# Dati scaricati/salvati dallo script
+data/
+
+# File di output grafici e tabelle (se non usi la cartella output/)
+*.png
+*.csv
+*.geojson
+
